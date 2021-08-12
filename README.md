@@ -1,5 +1,4 @@
 # SQL-Projects
-Exercises using SQL to boost my knowledge.
 
 Training with PostgreSQL, PGAdmin.
 
